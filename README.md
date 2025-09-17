@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm [Gaurav Sharma]
 
-<!--
-**GauravSharma018/GauravSharma018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I Work With
+- 💻 Languages: JavaScript, Python, C++, Java
+- 🌐 Frontend: HTML, CSS, React, Tailwind
+- 🛠️ Backend: Node.js, Express
+- 🗃️ Databases: MySQL
+- ⚙️ Tools: Git, GitHub, VSCode
+
+---
+
+### 📊 GitHub Stats
+
+---
+
+### 📫 How to Reach Me
+- LinkedIn: 
+- Email: gaurav12345sharma1847@gmail.com
+
+---
+
+### 🌱 Currently Learning
+- TypeScript
+- Docker
+- DSA (Data Structures and Algorithms)
