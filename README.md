@@ -6,8 +6,7 @@ I'm a passionate developer who loves building web applications and learning new 
 
 ### 🔧 Technologies I Work With
 - 💻 Languages: JavaScript, Python, C++, Java
-- 🌐 Frontend: HTML, CSS, React, Tailwind
-- 🛠️ Backend: Node.js, Express
+- 🌐 Frontend: HTML, CSS
 - 🗃️ Databases: MySQL
 - ⚙️ Tools: Git, GitHub, VSCode
 
@@ -18,7 +17,7 @@ I'm a passionate developer who loves building web applications and learning new 
 ---
 
 ### 📫 How to Reach Me
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/gaurav-sharma-980a632aa
 - Email: gaurav12345sharma1847@gmail.com
 
 ---
