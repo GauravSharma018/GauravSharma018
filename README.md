@@ -86,5 +86,6 @@ Here are some of my featured projects. **(Remember to replace the links!)**
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
+*LinkedIn Profile: linkedin.com/in/gaurav-sharma-980a632aa
+*e-mail Id: gaurav12345sharma1847@gmail.com
 
